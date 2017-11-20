@@ -2,3 +2,5 @@
 def display_board
   puts [" ", "|", " ", "|", " "]
 end
+
+puts display_board
